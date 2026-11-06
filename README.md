@@ -9,20 +9,20 @@ This repository holds the **documentation** only: the guide, the contact details
 Pick your language:
 
 - 🇬🇧 [English](guide/en.md)
-- 🇪🇸 Español (soon)
-- 🇩🇪 Deutsch (soon)
-- 🇫🇷 Français (soon)
-- 🇧🇷 Português (soon)
-- 🇮🇹 Italiano (soon)
-- 🇷🇺 Русский (soon)
-- 🇷🇸 Srpski (soon)
-- 🇯🇵 日本語 (soon)
-- 🇰🇷 한국어 (soon)
-- 🇨🇳 简体中文 (soon)
+- 🇪🇸 [Español](guide/es.md)
+- 🇩🇪 [Deutsch](guide/de.md)
+- 🇫🇷 [Français](guide/fr.md)
+- 🇧🇷 [Português](guide/pt.md)
+- 🇮🇹 [Italiano](guide/it.md)
+- 🇷🇺 [Русский](guide/ru.md)
+- 🇷🇸 [Srpski](guide/sr.md)
+- 🇯🇵 [日本語](guide/ja.md)
+- 🇰🇷 [한국어](guide/ko.md)
+- 🇨🇳 [简体中文](guide/zh.md)
 
-The app opens the guide in the language you chose in Settings, and falls back to English while yours isn't here yet.
+The app opens the guide in the language you chose in Settings. English is the original; the other guides are translations made by AI and may contain errors.
 
-Inside each guide: [Guide](guide/en.md#guide) (how Handbeat works) · [Devices](guide/en.md#devices) (every instrument, with notes and trivia) · [Contact](guide/en.md#contact) · [Support](guide/en.md#support)
+Inside each guide: Guide (how Handbeat works) · Devices (every instrument, with notes and trivia) · Contact · Support
 
 ## Privacy
 
