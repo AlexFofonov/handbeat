@@ -2,7 +2,7 @@
 
 A groove box for iPhone and iPad. Sixteen pads, a rack of devices, one tempo, one transport. Tap, draw a beat, chain the bars into a song.
 
-This repository holds the **documentation** only: the guide, the contact details and the privacy policy.
+This repository holds the **documentation** only: the guide, the changelog, the contact details and the privacy policy.
 
 ## Guide
 
@@ -23,6 +23,10 @@ Pick your language:
 The app opens the guide in the language you chose in Settings. English is the original; the other guides are translations made by AI and may contain errors.
 
 Inside each guide: Guide (how Handbeat works) · Devices (every instrument, with notes and trivia) · Contact · Support
+
+## Changelog
+
+[What changed in each version](CHANGELOG.md)
 
 ## Privacy
 
