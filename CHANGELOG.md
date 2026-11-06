@@ -2,6 +2,16 @@
 
 What changed in each version of Handbeat. Newest first. Versions follow [Semantic Versioning](https://semver.org).
 
+## 1.0.1
+
+### Improved
+
+- Controls are easier to read: swing and tempo show a small grip beside the number, so it is clear they can be dragged up or down.
+
+### Fixed
+
+- Turning a knob, swing or tempo no longer lags: the value follows your finger from the first touch instead of waiting and then jumping.
+
 ## 1.0.0
 
 The first release.
