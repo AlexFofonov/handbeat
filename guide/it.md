@@ -34,6 +34,8 @@ La parte alta dello schermo è il **display**. Tutto quello che c’è sopra si 
 
 Ogni pad, tasto e manopola risponde con un minuscolo colpetto del telefono (puoi spegnerlo nelle Impostazioni, sotto *Vibrazione*). Più un controllo cambia la musica, più forte è il colpetto.
 
+Ogni pagina ha una **texture** tenue sui suoi pad e sul tasto che la apre, così capisci a colpo d’occhio dove sei: linee per LIVE FX, punti per SOUND, colonne per STEP e quadrati per PATTERN. La pagina DEVICE non ne ha, i suoi pad portano invece un piccolo segno di ogni dispositivo. Disattiva tutto questo nelle Impostazioni, in *Suggerimenti visivi*.
+
 <details>
 <summary>Vuoi saperne di più?</summary>
 
@@ -147,7 +149,8 @@ L’ultimo tasto passa dal tuo dispositivo al **mixer**, la stessa tavola 4×4 c
 
 Nella pagina **DEVICE** ogni pad è uno slot: fino a **16 dispositivi** in un progetto.
 
-- **Tocca un pad vuoto** per aggiungere un dispositivo (i pad diventano i tipi che puoi scegliere).
+- **Tocca un pad con un più** per aggiungere un dispositivo (i pad diventano i tipi che puoi scegliere, ognuno con il suo segno).
+- **Segni.** Ogni pad porta un piccolo segno del suo dispositivo: una pelle di tamburo (Drums), una forma d’onda (Sampler), un’onda lenta (Bass), un dente di sega (Acid), un microfono (Vocal), una corda che si spegne (Pluck), un inviluppo che cresce (Pad) o un’onda quadra (Chip).
 - **Tocca un pad occupato** per selezionarlo. Il suo anello si accende mentre suona. **RACK** salta alla sua schermata.
 - **SOLO / MUTE** agiscono sul dispositivo selezionato. <img src="../images/keys/trash.jpg" width="32" alt="TRASH" align="absmiddle"> **TRASH** ne elimina uno: premilo, tocca il pad del dispositivo, conferma.
 - **DEV VOL** è il livello del dispositivo selezionato, **MAIN VOL** il volume dell’intero mix. 5 è il centro neutro.
@@ -246,7 +249,7 @@ Il pulsante **menu** apre i **Progetti** (ferma la musica e salva).
 
 ## Impostazioni
 
-Progetti → l’ingranaggio. **Lingua** cambia i menu subito (la groovebox stessa, con i suoi tasti, le manopole e i nomi dei dispositivi, resta in inglese in tutte le lingue, come le etichette di un apparecchio hardware). Ci sono quattro **temi**, ognuno in Scuro, Chiaro o *Sistema*: **Classic**, **iClassic** (plastica lucida e una ruota click), **Contrast** (piatto, nero o bianco puro) e **Aero** (gel e vetro). Ogni tema ha anche la sua **icona dell’app**.
+Progetti → l’ingranaggio. **Lingua** cambia i menu subito (la groovebox stessa, con i suoi tasti, le manopole e i nomi dei dispositivi, resta in inglese in tutte le lingue, come le etichette di un apparecchio hardware). Ci sono quattro **temi**, ognuno in Scuro, Chiaro o *Sistema*: **Classic**, **iClassic** (plastica lucida e una ruota click), **Contrast** (piatto, nero o bianco puro) e **Aero** (gel e vetro). Ogni tema ha anche la sua **icona dell’app**. **Vibrazione** e **Suggerimenti visivi** attivano o disattivano i tocchi e le texture e i segni delle pagine. **Introduzione** rifà il tour guidato su un nuovo progetto demo. La prima volta che apri Handbeat il tour parte da solo su una demo, e la croce nell’angolo lo chiude.
 
 ---
 

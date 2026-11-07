@@ -34,6 +34,8 @@ Oben auf dem Bildschirm sitzt das **Display**. Alles darauf darfst du anfassen.
 
 Jedes Pad, jede Taste und jeder Regler antwortet mit einem winzigen Tipser deines Handys (in den Einstellungen unter *Vibration* abschaltbar). Je mehr ein Bedienelement die Musik verändert, desto kräftiger der Tipser.
 
+Jede Seite hat eine dezente **Textur** auf ihren Pads und auf der Taste, die sie öffnet, damit du auf einen Blick siehst, wo du bist: Linien für LIVE FX, Punkte für SOUND, Spalten für STEP und Quadrate für PATTERN. Die Seite DEVICE hat keine, ihre Pads tragen stattdessen ein kleines Zeichen für jedes Gerät. Schalte das alles in den Einstellungen unter *Visuelle Hinweise* aus.
+
 <details>
 <summary>Mehr wissen?</summary>
 
@@ -147,7 +149,8 @@ Die letzte Taste schaltet zwischen deinem Gerät und dem **Mixer** um, demselben
 
 Auf der Seite **DEVICE** ist jedes Pad ein Platz: bis zu **16 Geräte** pro Projekt.
 
-- **Tippe auf ein leeres Pad**, um ein Gerät hinzuzufügen (die Pads verwandeln sich in die Arten, die du wählen kannst).
+- **Tippe auf ein Pad mit einem Plus**, um ein Gerät hinzuzufügen (die Pads verwandeln sich in die Arten, die du wählen kannst, jede mit ihrem Zeichen).
+- **Zeichen.** Jedes Pad trägt ein kleines Zeichen seines Geräts: ein Trommelfell (Drums), eine Wellenform (Sampler), eine langsame Welle (Bass), eine Säge (Acid), ein Mikrofon (Vocal), eine verklingende Saite (Pluck), eine anschwellende Hüllkurve (Pad) oder eine Rechteckwelle (Chip).
 - **Tippe auf ein belegtes Pad**, um es auszuwählen. Sein Ring leuchtet, solange es spielt. **RACK** springt in seinen eigenen Bildschirm.
 - **SOLO / MUTE** wirken auf das gewählte Gerät. <img src="../images/keys/trash.jpg" width="32" alt="TRASH" align="absmiddle"> **TRASH** löscht eines: drücken, auf das Pad des Geräts tippen, bestätigen.
 - **DEV VOL** ist der Pegel des gewählten Geräts, **MAIN VOL** die Lautstärke des gesamten Mixes. 5 ist die neutrale Mitte.
@@ -246,7 +249,7 @@ Die **Menü**-Taste öffnet die **Projekte** (sie stoppt die Musik und speichert
 
 ## Einstellungen
 
-Projekte → das Zahnrad. **Sprache** schaltet die Menüs sofort um (die Groovebox selbst mit ihren Tasten, Reglern und Gerätenamen bleibt überall auf Englisch, wie die Beschriftungen auf einem Hardwaregerät). Es gibt vier **Designs**, jedes in Dunkel, Hell oder *System*: **Classic**, **iClassic** (glänzender Kunststoff und ein Click Wheel), **Contrast** (flach, reines Schwarz oder Weiß) und **Aero** (Gel und Glas). Jedes Design hat außerdem sein eigenes **App-Symbol**.
+Projekte → das Zahnrad. **Sprache** schaltet die Menüs sofort um (die Groovebox selbst mit ihren Tasten, Reglern und Gerätenamen bleibt überall auf Englisch, wie die Beschriftungen auf einem Hardwaregerät). Es gibt vier **Designs**, jedes in Dunkel, Hell oder *System*: **Classic**, **iClassic** (glänzender Kunststoff und ein Click Wheel), **Contrast** (flach, reines Schwarz oder Weiß) und **Aero** (Gel und Glas). Jedes Design hat außerdem sein eigenes **App-Symbol**. **Vibration** und **Visuelle Hinweise** schalten die Taps sowie die Texturen und Zeichen der Seiten ein oder aus. **Einführung** startet die geführte Tour noch einmal in einem neuen Demoprojekt. Beim ersten Öffnen von Handbeat beginnt die Tour von selbst in einer Demo, und das Kreuz in ihrer Ecke beendet sie.
 
 ---
 

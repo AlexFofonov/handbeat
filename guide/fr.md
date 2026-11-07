@@ -34,6 +34,8 @@ Le haut de l’écran, c’est l’**afficheur**. Tout ce qu’il montre se touc
 
 Chaque pad, touche et bouton répond par un petit tapotement du téléphone (tu peux le couper dans les Réglages, sous *Vibration*). Plus une commande change la musique, plus le tapotement est fort.
 
+Chaque page a une **texture** discrète sur ses pads et sur la touche qui l’ouvre, pour que tu voies d’un coup d’œil où tu es : des lignes pour LIVE FX, des points pour SOUND, des colonnes pour STEP et des carrés pour PATTERN. La page DEVICE n’en a pas, ses pads portent à la place un petit signe de chaque appareil. Désactive tout cela dans les Réglages, sous *Repères visuels*.
+
 <details>
 <summary>Envie d’en savoir plus ?</summary>
 
@@ -147,7 +149,8 @@ La dernière touche bascule entre ton appareil et le **mixeur**, le même platea
 
 Sur la page **DEVICE**, chaque pad est un emplacement : jusqu’à **16 appareils** par projet.
 
-- **Touche un pad vide** pour ajouter un appareil (les pads deviennent les types que tu peux choisir).
+- **Touche un pad avec un plus** pour ajouter un appareil (les pads deviennent les types que tu peux choisir, chacun avec son signe).
+- **Signes.** Chaque pad porte un petit signe de son appareil : une peau de tambour (Drums), une forme d’onde (Sampler), une onde lente (Bass), une dent de scie (Acid), un micro (Vocal), une corde qui s’éteint (Pluck), une enveloppe qui gonfle (Pad) ou une onde carrée (Chip).
 - **Touche un pad occupé** pour le sélectionner. Son anneau s’allume pendant qu’il joue. **RACK** saute vers son propre écran.
 - **SOLO / MUTE** agissent sur l’appareil sélectionné. <img src="../images/keys/trash.jpg" width="32" alt="TRASH" align="absmiddle"> **TRASH** en supprime un : appuie dessus, touche le pad de l’appareil, confirme.
 - **DEV VOL** est le niveau de l’appareil sélectionné, **MAIN VOL** le volume de tout le mix. 5 est le milieu neutre.
@@ -246,7 +249,7 @@ Le bouton **menu** ouvre les **Projets** (il arrête la musique et enregistre).
 
 ## Réglages
 
-Projets → la roue dentée. **Langue** change les menus instantanément (la groovebox elle-même, avec ses touches, ses boutons et les noms d’appareils, reste en anglais partout, comme les étiquettes d’une machine matérielle). Il y a quatre **thèmes**, chacun en Sombre, Clair ou *Système* : **Classic**, **iClassic** (plastique brillant et une molette), **Contrast** (à plat, noir ou blanc pur) et **Aero** (gel et verre). Chaque thème a aussi sa propre **icône de l’app**.
+Projets → la roue dentée. **Langue** change les menus instantanément (la groovebox elle-même, avec ses touches, ses boutons et les noms d’appareils, reste en anglais partout, comme les étiquettes d’une machine matérielle). Il y a quatre **thèmes**, chacun en Sombre, Clair ou *Système* : **Classic**, **iClassic** (plastique brillant et une molette), **Contrast** (à plat, noir ou blanc pur) et **Aero** (gel et verre). Chaque thème a aussi sa propre **icône de l’app**. **Vibration** et **Repères visuels** activent ou coupent les tapotements ainsi que les textures et signes des pages. **Présentation** refait la visite guidée sur un nouveau projet de démo. La première fois que tu ouvres Handbeat, la visite démarre toute seule sur une démo, et la croix dans son coin la ferme.
 
 ---
 

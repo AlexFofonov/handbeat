@@ -32,6 +32,8 @@ The top of the screen is the **display**. Everything on it is yours to touch.
 
 Every pad, key and knob answers with a tiny tap from your phone (switch it off in Settings under *Vibration*). The more a control changes the music, the harder the tap.
 
+Each page has a faint **texture** on its pads and on the key that opens it, so you can tell where you are at a glance: lines for LIVE FX, dots for SOUND, columns for STEP and squares for PATTERN. The DEVICE page has none, its pads carry a small sign of each device instead. Switch all of this off in Settings under *Visual hints*.
+
 <details>
 <summary>Want to know more?</summary>
 
@@ -143,7 +145,8 @@ The last key flips between your device and the **mixer**, the same 4×4 board in
 
 On the **DEVICE** page every pad is a slot: up to **16 devices** in a project.
 
-- **Tap an empty pad** to add a device (the pads turn into the kinds you can pick).
+- **Tap a pad with a plus** to add a device (the pads turn into the kinds you can pick, each with its sign).
+- **Signs.** Each pad wears a small sign of its device: a drum head (Drums), a waveform (Sampler), a slow wave (Bass), a saw (Acid), a microphone (Vocal), a fading string (Pluck), a swelling envelope (Pad) or a square wave (Chip).
 - **Tap a used pad** to select it. Its ring lights while it plays. **RACK** jumps into its own screen.
 - **SOLO / MUTE** work on the selected device. <img src="../images/keys/trash.jpg" width="32" alt="TRASH" align="absmiddle"> **TRASH** deletes one: press it, tap the device's pad, confirm.
 - **DEV VOL** is the level of the selected device, **MAIN VOL** the volume of the whole mix. 5 is the neutral middle.
@@ -240,7 +243,7 @@ The **menu** button opens **Projects** (it stops the music and saves).
 
 ## Settings
 
-Projects → the gear. **Language** switches the menus at once (the groove box itself, with its keys, knobs and device names, stays in English everywhere, like the labels on a hardware box). There are four **themes**, each in Dark, Light or *System*: **Classic**, **iClassic** (glossy plastic and a click wheel), **Contrast** (flat, pure black or white) and **Aero** (gel and glass). Each theme also has its own **app icon**.
+Projects → the gear. **Language** switches the menus at once (the groove box itself, with its keys, knobs and device names, stays in English everywhere, like the labels on a hardware box). There are four **themes**, each in Dark, Light or *System*: **Classic**, **iClassic** (glossy plastic and a click wheel), **Contrast** (flat, pure black or white) and **Aero** (gel and glass). Each theme also has its own **app icon**. **Vibration** and **Visual hints** switch the taps and the page textures and signs on or off. **Onboarding** takes the guided tour again on a new demo project. The first time you open Handbeat the tour starts by itself on a demo, and the cross in its corner leaves it.
 
 ---
 
