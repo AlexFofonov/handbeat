@@ -2,6 +2,12 @@
 
 What changed in each version of Handbeat. Newest first. Versions follow [Semantic Versioning](https://semver.org).
 
+## 1.2.0
+
+### New
+
+- A new look, GameClassic, in Settings under Theme: grape-purple see-through plastic in Dark and grey plastic in Light, with chunky keys, bright primary-colour accents and a lettered A and B button for each knob. It has its own app icon too, in Dark and Light.
+
 ## 1.1.0
 
 ### New
