@@ -2,6 +2,15 @@
 
 What changed in each version of Handbeat. Newest first. Versions follow [Semantic Versioning](https://semver.org).
 
+## 1.1.0
+
+### New
+
+- A guided tour on a demo project: it lights one place at a time and has you set the tempo, add Drums, record a Pluck and chain patterns. Leave it with the cross, and take it again from Settings (Onboarding).
+- Every page has its own faint texture on its pads and on the key that opens it, so you can see where you are at a glance.
+- The DEVICE page shows a plus on a free slot and a small sign of the kind on each device, and the device picker shows the sign of every kind.
+- Settings has a Visual hints switch that turns the textures and signs on or off.
+
 ## 1.0.1
 
 ### Improved

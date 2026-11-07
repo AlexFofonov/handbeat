@@ -34,6 +34,8 @@ Gornji deo ekrana je **displej**. Sve na njemu možeš da dodirneš.
 
 Svaki pad, taster i regulator odgovara sitnim podrhtavanjem telefona (isključuje se u Podešavanjima, pod *Vibracija*). Što više neka kontrola menja muziku, to je podrhtavanje jače.
 
+Svaka stranica ima blagu **teksturu** na padovima i na tasteru koji je otvara, da jednim pogledom vidiš gde si: linije za LIVE FX, tačke za SOUND, kolone za STEP i kvadrate za PATTERN. Stranica DEVICE je nema, umesto nje padovi nose mali znak svakog uređaja. Sve ovo isključuješ u podešavanjima, u *Vizuelne pomoći*.
+
 <details>
 <summary>Želiš da znaš više?</summary>
 
@@ -147,7 +149,8 @@ Poslednji taster prebacuje između tvog uređaja i **miksera**, iste table 4×4 
 
 Na stranici **DEVICE** svaki pad je jedno mesto: do **16 uređaja** u projektu.
 
-- **Dodirni prazan pad** da dodaš uređaj (padovi postaju vrste koje možeš da izabereš).
+- **Dodirni pad sa plusom** da dodaš uređaj (padovi postaju vrste koje možeš da izabereš, svaka sa svojim znakom).
+- **Znaci.** Svaki pad nosi mali znak svog uređaja: opnu bubnja (Drums), oblik talasa (Sampler), spor talas (Bass), testeru (Acid), mikrofon (Vocal), strunu koja jenjava (Pluck), obvojnicu koja raste (Pad) ili pravougaoni talas (Chip).
 - **Dodirni zauzet pad** da ga izabereš. Njegov prsten svetli dok svira. **RACK** skače na njegov sopstveni ekran.
 - **SOLO / MUTE** deluju na izabrani uređaj. <img src="../images/keys/trash.jpg" width="32" alt="TRASH" align="absmiddle"> **TRASH** briše uređaj: pritisni ga, dodirni pad uređaja, potvrdi.
 - **DEV VOL** je nivo izabranog uređaja, **MAIN VOL** jačina celog miksa. 5 je neutralna sredina.
@@ -246,7 +249,7 @@ Dugme **menija** otvara **Projekte** (zaustavlja muziku i čuva).
 
 ## Podešavanja
 
-Projekti → zupčanik. **Jezik** menja menije odmah (sam groovebox, sa tasterima, regulatorima i imenima uređaja, ostaje na engleskom svuda, kao natpisi na hardverskom aparatu). Postoje četiri **teme**, svaka u varijanti Tamna, Svetla ili *Sistemska*: **Classic**, **iClassic** (sjajna plastika i klik točkić), **Contrast** (ravna, čisto crna ili bela) i **Aero** (gel i staklo). Svaka tema ima i sopstvenu **ikonicu aplikacije**.
+Projekti → zupčanik. **Jezik** menja menije odmah (sam groovebox, sa tasterima, regulatorima i imenima uređaja, ostaje na engleskom svuda, kao natpisi na hardverskom aparatu). Postoje četiri **teme**, svaka u varijanti Tamna, Svetla ili *Sistemska*: **Classic**, **iClassic** (sjajna plastika i klik točkić), **Contrast** (ravna, čisto crna ili bela) i **Aero** (gel i staklo). Svaka tema ima i sopstvenu **ikonicu aplikacije**. **Vibracija** i **Vizuelne pomoći** uključuju i isključuju dodire, kao i teksture i znake stranica. **Uvod** ponovo vodi kroz obilazak na novom demo projektu. Kad prvi put otvoriš Handbeat, obilazak kreće sam na demou, a krstić u njegovom uglu ga zatvara.
 
 ---
 
